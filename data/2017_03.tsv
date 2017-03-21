@@ -1,0 +1,117 @@
+Angular 1.*	Techniques; Frameworks & Tools		-1.1			
+C#	Languages		2			
+Java	Languages		2			
+JavaScript	Languages		2			
+Prometheus	Platforms & Infrastructure	https://prometheus.io	-0.5			
+PostgreSQL	Data Mgt		2			
+CouchBase	Data Mgt	https://www.couchbase.com/	1			
+Elastic	Platforms & Infrastructure		-1			
+Tango	Techniques; Frameworks & Tools		1			
+Unity3D	Techniques; Frameworks & Tools		1			
+GeoKettle	Data Mgt		-0.5			
+GOST	Data Mgt		-0.9			
+Node-RED	Data Mgt		-0.1			
+GO	Languages		-0.2			
+Javascript Modules	Techniques; Frameworks & Tools		2			
+Topology	Data Mgt	Rumtelijk data model	0			
+foreign datawrappers	Data Mgt		-0.9			
+WebGL	Languages		-0.5			
+PouchDb	Data Mgt		-0.2			
+Angular 2	Techniques; Frameworks & Tools		0.5			
+React	Techniques; Frameworks & Tools		0			
+Typescript	Languages		-1			
+Ecma6/ babel	Languages		2			
+Bootstrap 3	Techniques; Frameworks & Tools		1			
+Openlayers 2	Techniques; Frameworks & Tools		-2			
+Openlayers 3+	Techniques; Frameworks & Tools		2			
+Leaflet	Techniques; Frameworks & Tools		-1.7			
+D3	Techniques; Frameworks & Tools		1			
+Grunt	Platforms & Infrastructure		2			
+gulp	Platforms & Infrastructure		0			
+maven	Platforms & Infrastructure		2			
+protractor	Platforms & Infrastructure		1			
+Node.js	Platforms & Infrastructure		1.2			
+Underscore	Techniques; Frameworks & Tools		1.5			
+lodash	Techniques; Frameworks & Tools		1.2			
+Hasicorp Vault	Platforms & Infrastructure		-1			
+A11y	Techniques; Frameworks & Tools		2			
+Vagrant	Platforms & Infrastructure		-0.5			
+Consul	Platforms & Infrastructure		1.5			
+Ansible	Platforms & Infrastructure		2			
+Puppet	Platforms & Infrastructure		1			
+.Net Core	Techniques; Frameworks & Tools		-1			
+SQL Server	Data Mgt		2			
+ReSharper	Techniques; Frameworks & Tools		2			
+NCrunch	Techniques; Frameworks & Tools		2			
+Python	Languages		-1.5			
+UWP	Platforms & Infrastructure		0			
+Microsoft Hub	Platforms & Infrastructure		0			
+Google Jamboard	Platforms & Infrastructure		0			
+F#	Languages	Al lange tijd in opkomst binnen .NET. Veel aandacht. Nog steeds geen concrete reden om echt iets mee te gaan doen.	-0.9			
+.NET Standard	Techniques; Frameworks & Tools		-0.5			
+Visual Studio 2017 csproj	Techniques; Frameworks & Tools		0			
+Dapper (.NET ORM)	Techniques; Frameworks & Tools		2			
+Let's Encrypt	Techniques; Frameworks & Tools		1			
+Auth0	Techniques; Frameworks & Tools		0			
+IdentityServer	Techniques; Frameworks & Tools		-0.5			
+OpenID Connect	Techniques; Frameworks & Tools		-0.5			
+LogStash	Platforms & Infrastructure		0			
+Kibana	Platforms & Infrastructure		0			
+Lucidchart	Techniques; Frameworks & Tools		0			
+Swagger	Techniques; Frameworks & Tools		2			
+Tipco Streambase	Data Mgt		-0.5			
+MariaDB	Data Mgt		1			
+FME	Data Mgt		1.6			
+Apache Solr	Data Mgt		1.7			
+Esri Geodatabase	Data Mgt		1.5			
+Oracle Spatial	Data Mgt		-1.5			
+PostGIS	Data Mgt	Wordt dit commentaar zichtbaar?	2			
+Shibboleth	Techniques; Frameworks & Tools		1			
+ADFS	Data Mgt		1			
+OpenLDAP	Data Mgt		1.5			
+HTML5	Languages		2			
+CSS3	Languages		2			
+PowerShell	Languages	Op Windows steeds vaker gebruikt voor provisioning. Beter dan cmd. Wordt geport naar Mac/Linux. Alternatief: bash for Windows	0.5			
+SQL	Languages		1.6			
+Sparql	Languages		-0.5			
+Mapbasic	Languages		-1.7			
+Bash for Windows	Languages		-0.5			
+Betty Blocks	Techniques; Frameworks & Tools		-0.5			
+Spring	Techniques; Frameworks & Tools		2			
+Hibernate	Techniques; Frameworks & Tools		1.6			
+WebAssembly	Languages		-0.9			
+Apache Camel	Techniques; Frameworks & Tools		-2			
+ActiveMQ	Techniques; Frameworks & Tools		-2			
+Docker	Platforms & Infrastructure		2			
+Ubuntu	Platforms & Infrastructure		2			
+Windows	Platforms & Infrastructure		2			
+Android	Platforms & Infrastructure		1			
+Cordova	Techniques; Frameworks & Tools		1.2			
+Xamarin	Techniques; Frameworks & Tools		-2			
+Tomcat	Platforms & Infrastructure		1.8			
+Polymer	Techniques; Frameworks & Tools		0.5			
+Apache	Platforms & Infrastructure		2			
+IIS	Platforms & Infrastructure		1.6			
+Browser	Platforms & Infrastructure		1			
+IOS	Platforms & Infrastructure		1			
+Visual Studio	Techniques; Frameworks & Tools		-0.9			
+IntelliJ	Techniques; Frameworks & Tools		2			
+Eclipse	Techniques; Frameworks & Tools		-2			
+NGINX	Platforms & Infrastructure		0.5			
+Entity Framework (.NET ORM)	Techniques; Frameworks & Tools		2			
+MapProxy	Data Mgt		1.6			
+GeoWebcache	Data Mgt		0.5			
+Unity3D UI	Techniques; Frameworks & Tools	Het is goed te realiseren dat als je voor Unity kiest je kennis moet ontwikkelen van de manier waarop je binnen Unity the UI definieert. Hier zullen we kennis van moeten hebben net zoals we dat nu hebben van HTML/CSS en XAML. https://docs.unity3d.com/Manual/UISystem.html				
+GeoServer	Platforms & Infrastructure		2			
+Mapserver	Platforms & Infrastructure		-1.7			
+DeeGree	Platforms & Infrastructure		1			
+GeoTools	Techniques; Frameworks & Tools		1.6			
+Ogr2Ogr	Data Mgt		1.4			
+TeamCity	Platforms & Infrastructure		2			
+GitLab	Platforms & Infrastructure		2			
+Nexus	Platforms & Infrastructure		2			
+SVN	Platforms & Infrastructure		-2			
+MediaWiki	Platforms & Infrastructure		1			
+SonarQube	Platforms & Infrastructure		2			
+Selenium	Platforms & Infrastructure		1.3			
+Cucumber	Techniques; Frameworks & Tools		1.3			
